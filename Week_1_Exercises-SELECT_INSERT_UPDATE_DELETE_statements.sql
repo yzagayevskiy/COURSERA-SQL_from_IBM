@@ -1,4 +1,5 @@
--- Exercises
+-- DML (Data Manipulation Language) Exercises
+
 -- SELECT Statement
 SELECT Locations, FunFacts FROM FilmLocations;
 
