@@ -1,4 +1,4 @@
--- DDM Exercises
+-- DDL (Data Definition Language) Exercises
 
 -- PETSALE and PET tables
 
